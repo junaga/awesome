@@ -1,6 +1,8 @@
 ## Tools
 
+- https://unicode-table.com/
 - https://color.adobe.com/create
+- https://picular.co/
 
 ## Refs
 

@@ -1,3 +1,7 @@
+## Fun
+
+- https://amiunique.org/
+
 ## Tools
 
 - https://picular.co/ - A color for every word

@@ -8,7 +8,6 @@
 - https://picular.co/ - A color for every word
 - http://caniuse.com/ - What Browser supports what feature
 - https://moiva.io/ - Compare Javascript packages
-- https://regexr.com/ - Craft Regex
 
 ## Refs
 

@@ -7,7 +7,7 @@
 
 - https://domains.google/
 - https://developers.google.com/search/
-- https://github.com/
+- https://github.com/features/
 - https://firebase.google.com/
 - https://www.similarweb.com/ - Online Marketing
 - https://picular.co/ - A color for every word

@@ -1,3 +1,9 @@
+## Essential
+
+- https://www.google.com/
+- https://en.wikipedia.org/
+- https://twitter.com/
+
 ## Fun and mindblowing
 
 - https://chat.openai.com/ - This thing can write code!

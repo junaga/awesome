@@ -4,6 +4,14 @@
 - https://en.wikipedia.org/
 - https://twitter.com/
 
+## Avoid
+
+- https://us.yahoo.com/ -> Google
+- https://www.bing.com/ -> Google
+- https://www.instagram.com/ -> Twitter & TikTok
+- https://www.whatsapp.com/ -> RCS client
+- https://gitlab.com/ -> GitHub
+
 ## Fun and mindblowing
 
 - https://chat.openai.com/ - This thing can write code!

@@ -5,7 +5,7 @@
 
 ## Tech and Tools
 
-- https://domains.google/
+- https://www.cloudflare.com/products/registrar/
 - https://developers.google.com/search/
 - https://github.com/features/
 - https://firebase.google.com/

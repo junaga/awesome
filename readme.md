@@ -1,3 +1,7 @@
+# Favorites
+
+- https://80000hours.org/
+
 ## Essential
 
 - https://www.google.com/

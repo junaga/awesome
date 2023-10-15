@@ -1,6 +1,5 @@
-## Fun and mindblowing
-
-- https://chat.openai.com/ - This thing can write code!
+- https://chat.openai.com/
+- https://safety.google/
 - https://amiunique.org/
 
 ## Tech and Tools

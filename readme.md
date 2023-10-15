@@ -2,16 +2,12 @@
 - https://safety.google/
 - https://amiunique.org/
 
-## Tech and Tools
+## Tech
 
-- https://www.cloudflare.com/products/registrar/
-- https://developers.google.com/search/
-- https://github.com/features/
 - https://firebase.google.com/
-- https://www.similarweb.com/ - Online Marketing
-- https://picular.co/ - A color for every word
-- http://caniuse.com/ - What Browser supports what feature
-- https://moiva.io/ - Compare Javascript packages
+- https://github.com/features/
+- https://www.similarweb.com/
+- https://developers.google.com/search/
 
 ## Learn
 

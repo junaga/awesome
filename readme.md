@@ -22,7 +22,6 @@
 - https://landscape.cncf.io/
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/
-- https://github.com/vinta/awesome-python/
-- https://github.com/sindresorhus/awesome-nodejs/
+- https://github.com/sindresorhus/awesome/
 
 need help? `@junaga` me on [discord.com](https://discord.com/)

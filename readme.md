@@ -1,13 +1,12 @@
 - https://chat.openai.com/
 - https://safety.google/
-- https://amiunique.org/
+- https://amiunique.org/fingerprint/
 
 ## Tech
 
 - https://firebase.google.com/
 - https://github.com/features/
 - https://www.similarweb.com/
-- https://developers.google.com/search/
 
 ## Learn
 
@@ -15,6 +14,7 @@
 - https://web.dev/learn/css/
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/
 - https://docs.python.org/
+- https://developers.google.com/search/
 - https://github.com/git-guides/
 
 ## Refs and more

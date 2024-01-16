@@ -1,4 +1,4 @@
-- https://chat.openai.com/
+- https://openai.com/chatgpt/
 - https://safety.google/
 
 ## tools

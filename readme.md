@@ -11,7 +11,7 @@
 ## demos
 
 - https://amiunique.org/fingerprint/
-- https://stackblitz.com/edit/vitejs-vite-ephxjx?file=index.html
+- https://stackblitz.com/edit/stackblitz-starters-2vtmu7?file=index.html
 
 ## docs
 
@@ -24,7 +24,7 @@
 
 ## refs
 
-- https://cncf.landscape2.io/
+- https://getdeploying.com/compare
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/
 - https://github.com/vitejs/awesome-vite

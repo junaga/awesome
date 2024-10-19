@@ -26,6 +26,7 @@
 ## refs
 
 - https://getdeploying.com/compare
+- https://w3techs.com/technologies
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/
 - https://github.com/vitejs/awesome-vite
